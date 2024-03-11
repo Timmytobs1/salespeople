@@ -1,0 +1,14 @@
+C:\Users\TIMMYTOBS\salespeople\bin\Debug\net8.0\salespeople.exe
+C:\Users\TIMMYTOBS\salespeople\bin\Debug\net8.0\salespeople.deps.json
+C:\Users\TIMMYTOBS\salespeople\bin\Debug\net8.0\salespeople.runtimeconfig.json
+C:\Users\TIMMYTOBS\salespeople\bin\Debug\net8.0\salespeople.dll
+C:\Users\TIMMYTOBS\salespeople\bin\Debug\net8.0\salespeople.pdb
+C:\Users\TIMMYTOBS\salespeople\obj\Debug\net8.0\salespeople.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIMMYTOBS\salespeople\obj\Debug\net8.0\salespeople.AssemblyInfoInputs.cache
+C:\Users\TIMMYTOBS\salespeople\obj\Debug\net8.0\salespeople.AssemblyInfo.cs
+C:\Users\TIMMYTOBS\salespeople\obj\Debug\net8.0\salespeople.csproj.CoreCompileInputs.cache
+C:\Users\TIMMYTOBS\salespeople\obj\Debug\net8.0\salespeople.dll
+C:\Users\TIMMYTOBS\salespeople\obj\Debug\net8.0\refint\salespeople.dll
+C:\Users\TIMMYTOBS\salespeople\obj\Debug\net8.0\salespeople.pdb
+C:\Users\TIMMYTOBS\salespeople\obj\Debug\net8.0\salespeople.genruntimeconfig.cache
+C:\Users\TIMMYTOBS\salespeople\obj\Debug\net8.0\ref\salespeople.dll
